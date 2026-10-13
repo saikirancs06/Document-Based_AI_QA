@@ -68,11 +68,11 @@ Document_AI_QA/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/saikirancs06/Document-Based_AI_QA
 cd document-ai-qa
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with the HTTPS URL of your GitHub repository.
+Replace `https://github.com/saikirancs06/Document-Based_AI_QA` with the HTTPS URL of your GitHub repository.
 
 Alternatively, download the repository as a ZIP file and extract it.
 
